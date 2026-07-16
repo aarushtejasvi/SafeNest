@@ -8,5 +8,9 @@ Glimpses of the prototype
 
 <br><br>
 
+<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/d2a94fcf-da46-493e-89a3-0f82126f886a" />
 
-<img width="755" height="588" alt="image" src="https://github.com/user-attachments/assets/d2a94fcf-da46-493e-89a3-0f82126f886a" />
+<br><br>
+
+<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/32017f06-1e0e-4fd2-86ea-0c7d72f59be8" />
+
